@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kasiah00/leetcode24/tree/master/0628-maximum-product-of-three-numbers) |
 | [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/kasiah00/leetcode24/tree/master/0890-lemonade-change) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/kasiah00/leetcode24/tree/master/0890-lemonade-change) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kasiah00/leetcode24/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Linked List
 |  |
