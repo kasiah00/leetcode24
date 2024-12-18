@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/kasiah00/leetcode24/tree/master/1677-matrix-diagonal-sum) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/kasiah00/leetcode24/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/kasiah00/leetcode24/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1769-get-maximum-in-generated-array](https://github.com/kasiah00/leetcode24/tree/master/1769-get-maximum-in-generated-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kasiah00/leetcode24/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kasiah00/leetcode24/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/kasiah00/leetcode24/tree/master/0495-teemo-attacking) |
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/kasiah00/leetcode24/tree/master/1682-most-visited-sector-in-a-circular-track) |
+| [1769-get-maximum-in-generated-array](https://github.com/kasiah00/leetcode24/tree/master/1769-get-maximum-in-generated-array) |
 | [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
 | [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/kasiah00/leetcode24/tree/master/2684-determine-the-winner-of-a-bowling-game) |
