@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kasiah00/leetcode24/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kasiah00/leetcode24/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/kasiah00/leetcode24/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kasiah00/leetcode24/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Prefix Sum
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kasiah00/leetcode24/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kasiah00/leetcode24/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/kasiah00/leetcode24/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 | [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kasiah00/leetcode24/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Simulation
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kasiah00/leetcode24/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kasiah00/leetcode24/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -87,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kasiah00/leetcode24/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kasiah00/leetcode24/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
