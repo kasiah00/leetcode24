@@ -98,23 +98,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kasiah00/leetcode24/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0543-diameter-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kasiah00/leetcode24/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0543-diameter-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kasiah00/leetcode24/tree/master/0112-path-sum) |
+| [1035-cousins-in-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kasiah00/leetcode24/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0543-diameter-of-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/1035-cousins-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
