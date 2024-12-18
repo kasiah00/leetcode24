@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
