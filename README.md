@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kasiah00/leetcode24/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kasiah00/leetcode24/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kasiah00/leetcode24/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/kasiah00/leetcode24/tree/master/0231-power-of-two) |
 | [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kasiah00/leetcode24/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Simulation
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kasiah00/leetcode24/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kasiah00/leetcode24/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/kasiah00/leetcode24/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kasiah00/leetcode24/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kasiah00/leetcode24/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
