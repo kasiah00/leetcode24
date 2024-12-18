@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kasiah00/leetcode24/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2433-best-poker-hand](https://github.com/kasiah00/leetcode24/tree/master/2433-best-poker-hand) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/kasiah00/leetcode24/tree/master/0889-buddy-strings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2433-best-poker-hand](https://github.com/kasiah00/leetcode24/tree/master/2433-best-poker-hand) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Prefix Sum
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
+| [2433-best-poker-hand](https://github.com/kasiah00/leetcode24/tree/master/2433-best-poker-hand) |
 ## String Matching
 |  |
 | ------- |
