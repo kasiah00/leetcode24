@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kasiah00/leetcode24/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/kasiah00/leetcode24/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2737-row-with-maximum-ones](https://github.com/kasiah00/leetcode24/tree/master/2737-row-with-maximum-ones) |
+| [2756-buy-two-chocolates](https://github.com/kasiah00/leetcode24/tree/master/2756-buy-two-chocolates) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kasiah00/leetcode24/tree/master/0890-lemonade-change) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kasiah00/leetcode24/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2756-buy-two-chocolates](https://github.com/kasiah00/leetcode24/tree/master/2756-buy-two-chocolates) |
 ## Linked List
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kasiah00/leetcode24/tree/master/0628-maximum-product-of-three-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2756-buy-two-chocolates](https://github.com/kasiah00/leetcode24/tree/master/2756-buy-two-chocolates) |
 ## Tree
 |  |
 | ------- |
