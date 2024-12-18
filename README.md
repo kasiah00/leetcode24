@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2433-best-poker-hand](https://github.com/kasiah00/leetcode24/tree/master/2433-best-poker-hand) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/kasiah00/leetcode24/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kasiah00/leetcode24/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/kasiah00/leetcode24/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2737-row-with-maximum-ones](https://github.com/kasiah00/leetcode24/tree/master/2737-row-with-maximum-ones) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
 | [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
 | [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/kasiah00/leetcode24/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kasiah00/leetcode24/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
