@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kasiah00/leetcode24/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/kasiah00/leetcode24/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kasiah00/leetcode24/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/kasiah00/leetcode24/tree/master/0136-single-number) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kasiah00/leetcode24/tree/master/0118-pascals-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kasiah00/leetcode24/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
