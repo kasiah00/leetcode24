@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 | [3429-special-array-i](https://github.com/kasiah00/leetcode24/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/kasiah00/leetcode24/tree/master/3463-alternating-groups-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/kasiah00/leetcode24/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/kasiah00/leetcode24/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/kasiah00/leetcode24/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/kasiah00/leetcode24/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Interactive
 |  |
 | ------- |
