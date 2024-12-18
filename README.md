@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/kasiah00/leetcode24/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kasiah00/leetcode24/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/kasiah00/leetcode24/tree/master/0890-lemonade-change) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kasiah00/leetcode24/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Linked List
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kasiah00/leetcode24/tree/master/0628-maximum-product-of-three-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Tree
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/kasiah00/leetcode24/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Memoization
 |  |
 | ------- |
