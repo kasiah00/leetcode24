@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-max-pair-sum-in-an-array](https://github.com/kasiah00/leetcode24/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 | [3429-special-array-i](https://github.com/kasiah00/leetcode24/tree/master/3429-special-array-i) |
+| [3463-alternating-groups-i](https://github.com/kasiah00/leetcode24/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
+| [3463-alternating-groups-i](https://github.com/kasiah00/leetcode24/tree/master/3463-alternating-groups-i) |
 ## Counting
 |  |
 | ------- |
