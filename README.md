@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kasiah00/leetcode24/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kasiah00/leetcode24/tree/master/0414-third-maximum-number) |
+| [0495-teemo-attacking](https://github.com/kasiah00/leetcode24/tree/master/0495-teemo-attacking) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kasiah00/leetcode24/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/kasiah00/leetcode24/tree/master/0495-teemo-attacking) |
 | [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
