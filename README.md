@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/kasiah00/leetcode24/tree/master/2756-buy-two-chocolates) |
 | [2902-max-pair-sum-in-an-array](https://github.com/kasiah00/leetcode24/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
+| [3429-special-array-i](https://github.com/kasiah00/leetcode24/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
