@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2694-find-the-maximum-divisibility-score](https://github.com/kasiah00/leetcode24/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2737-row-with-maximum-ones](https://github.com/kasiah00/leetcode24/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/kasiah00/leetcode24/tree/master/2756-buy-two-chocolates) |
+| [2902-max-pair-sum-in-an-array](https://github.com/kasiah00/leetcode24/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/kasiah00/leetcode24/tree/master/0889-buddy-strings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2433-best-poker-hand](https://github.com/kasiah00/leetcode24/tree/master/2433-best-poker-hand) |
+| [2902-max-pair-sum-in-an-array](https://github.com/kasiah00/leetcode24/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Prefix Sum
 |  |
