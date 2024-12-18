@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/kasiah00/leetcode24/tree/master/0890-lemonade-change) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/kasiah00/leetcode24/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/kasiah00/leetcode24/tree/master/0441-arranging-coins) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kasiah00/leetcode24/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kasiah00/leetcode24/tree/master/0628-maximum-product-of-three-numbers) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/kasiah00/leetcode24/tree/master/0506-relative-ranks) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -181,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
