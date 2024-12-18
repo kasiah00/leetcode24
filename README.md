@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kasiah00/leetcode24/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/kasiah00/leetcode24/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kasiah00/leetcode24/tree/master/0628-maximum-product-of-three-numbers) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kasiah00/leetcode24/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/kasiah00/leetcode24/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kasiah00/leetcode24/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/kasiah00/leetcode24/tree/master/1013-fibonacci-number) |
 | [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kasiah00/leetcode24/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kasiah00/leetcode24/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/kasiah00/leetcode24/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kasiah00/leetcode24/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
 |  |
 | ------- |
