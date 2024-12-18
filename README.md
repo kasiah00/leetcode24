@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/kasiah00/leetcode24/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kasiah00/leetcode24/tree/master/3412-permutation-difference-between-two-strings) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/kasiah00/leetcode24/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3617-find-the-original-typed-string-i](https://github.com/kasiah00/leetcode24/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
