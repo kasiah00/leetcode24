@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/kasiah00/leetcode24/tree/master/1677-matrix-diagonal-sum) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/kasiah00/leetcode24/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/kasiah00/leetcode24/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kasiah00/leetcode24/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kasiah00/leetcode24/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/kasiah00/leetcode24/tree/master/0889-buddy-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kasiah00/leetcode24/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kasiah00/leetcode24/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2433-best-poker-hand](https://github.com/kasiah00/leetcode24/tree/master/2433-best-poker-hand) |
 | [2902-max-pair-sum-in-an-array](https://github.com/kasiah00/leetcode24/tree/master/2902-max-pair-sum-in-an-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/kasiah00/leetcode24/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/kasiah00/leetcode24/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kasiah00/leetcode24/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/kasiah00/leetcode24/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Interactive
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 | [0857-positions-of-large-groups](https://github.com/kasiah00/leetcode24/tree/master/0857-positions-of-large-groups) |
 | [0889-buddy-strings](https://github.com/kasiah00/leetcode24/tree/master/0889-buddy-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kasiah00/leetcode24/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/1933-number-of-different-integers-in-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/kasiah00/leetcode24/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kasiah00/leetcode24/tree/master/3412-permutation-difference-between-two-strings) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/kasiah00/leetcode24/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2433-best-poker-hand](https://github.com/kasiah00/leetcode24/tree/master/2433-best-poker-hand) |
 ## String Matching
 |  |
