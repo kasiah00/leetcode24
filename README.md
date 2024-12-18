@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kasiah00/leetcode24/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/kasiah00/leetcode24/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/kasiah00/leetcode24/tree/master/0496-next-greater-element-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kasiah00/leetcode24/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/kasiah00/leetcode24/tree/master/0496-next-greater-element-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Prefix Sum
 |  |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/kasiah00/leetcode24/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/0434-number-of-segments-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kasiah00/leetcode24/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kasiah00/leetcode24/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
