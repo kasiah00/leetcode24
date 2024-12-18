@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kasiah00/leetcode24/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1677-matrix-diagonal-sum](https://github.com/kasiah00/leetcode24/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kasiah00/leetcode24/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kasiah00/leetcode24/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/kasiah00/leetcode24/tree/master/0495-teemo-attacking) |
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
+| [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
 | [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kasiah00/leetcode24/tree/master/0088-merge-sorted-array) |
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
+| [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
 ## Sorting
 |  |
 | ------- |
