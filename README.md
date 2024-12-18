@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kasiah00/leetcode24/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
 | [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
+| [0889-buddy-strings](https://github.com/kasiah00/leetcode24/tree/master/0889-buddy-strings) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Prefix Sum
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/kasiah00/leetcode24/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 | [0857-positions-of-large-groups](https://github.com/kasiah00/leetcode24/tree/master/0857-positions-of-large-groups) |
+| [0889-buddy-strings](https://github.com/kasiah00/leetcode24/tree/master/0889-buddy-strings) |
 ## Stack
 |  |
 | ------- |
