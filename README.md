@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kasiah00/leetcode24/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2756-buy-two-chocolates](https://github.com/kasiah00/leetcode24/tree/master/2756-buy-two-chocolates) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/kasiah00/leetcode24/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Linked List
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/1933-number-of-different-integers-in-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/kasiah00/leetcode24/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kasiah00/leetcode24/tree/master/3412-permutation-difference-between-two-strings) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/kasiah00/leetcode24/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
 | ------- |
