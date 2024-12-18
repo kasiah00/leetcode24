@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2433-best-poker-hand](https://github.com/kasiah00/leetcode24/tree/master/2433-best-poker-hand) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kasiah00/leetcode24/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/kasiah00/leetcode24/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2737-row-with-maximum-ones](https://github.com/kasiah00/leetcode24/tree/master/2737-row-with-maximum-ones) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
