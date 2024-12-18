@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kasiah00/leetcode24/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kasiah00/leetcode24/tree/master/0628-maximum-product-of-three-numbers) |
+| [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kasiah00/leetcode24/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/kasiah00/leetcode24/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
+| [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 | [3034-points-that-intersect-with-cars](https://github.com/kasiah00/leetcode24/tree/master/3034-points-that-intersect-with-cars) |
 ## Prefix Sum
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/kasiah00/leetcode24/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/kasiah00/leetcode24/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/kasiah00/leetcode24/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 ## Stack
 |  |
 | ------- |
