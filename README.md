@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kasiah00/leetcode24/tree/master/0890-lemonade-change) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kasiah00/leetcode24/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kasiah00/leetcode24/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/kasiah00/leetcode24/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kasiah00/leetcode24/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
 | [0822-unique-morse-code-words](https://github.com/kasiah00/leetcode24/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/kasiah00/leetcode24/tree/master/0889-buddy-strings) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kasiah00/leetcode24/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2433-best-poker-hand](https://github.com/kasiah00/leetcode24/tree/master/2433-best-poker-hand) |
 | [2902-max-pair-sum-in-an-array](https://github.com/kasiah00/leetcode24/tree/master/2902-max-pair-sum-in-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kasiah00/leetcode24/tree/master/0628-maximum-product-of-three-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kasiah00/leetcode24/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kasiah00/leetcode24/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/kasiah00/leetcode24/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2756-buy-two-chocolates](https://github.com/kasiah00/leetcode24/tree/master/2756-buy-two-chocolates) |
 ## Tree
