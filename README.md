@@ -19,8 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/kasiah00/leetcode24/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Simulation
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/kasiah00/leetcode24/tree/master/2645-pass-the-pillow) |
+## Greedy
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/kasiah00/leetcode24/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
