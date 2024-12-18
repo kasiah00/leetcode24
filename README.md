@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/0434-number-of-segments-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/kasiah00/leetcode24/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/kasiah00/leetcode24/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/kasiah00/leetcode24/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kasiah00/leetcode24/tree/master/0594-longest-harmonious-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/kasiah00/leetcode24/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
