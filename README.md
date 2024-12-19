@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kasiah00/leetcode24/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0543-diameter-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kasiah00/leetcode24/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kasiah00/leetcode24/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0543-diameter-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kasiah00/leetcode24/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kasiah00/leetcode24/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/0543-diameter-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/kasiah00/leetcode24/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kasiah00/leetcode24/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
