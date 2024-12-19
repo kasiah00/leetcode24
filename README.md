@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/kasiah00/leetcode24/tree/master/0889-buddy-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kasiah00/leetcode24/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/kasiah00/leetcode24/tree/master/1524-string-matching-in-an-array) |
+| [1532-reformat-the-string](https://github.com/kasiah00/leetcode24/tree/master/1532-reformat-the-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kasiah00/leetcode24/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/kasiah00/leetcode24/tree/master/1894-merge-strings-alternately) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/1933-number-of-different-integers-in-a-string) |
