@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kasiah00/leetcode24/tree/master/0088-merge-sorted-array) |
 | [0861-flipping-an-image](https://github.com/kasiah00/leetcode24/tree/master/0861-flipping-an-image) |
+| [1894-merge-strings-alternately](https://github.com/kasiah00/leetcode24/tree/master/1894-merge-strings-alternately) |
 | [2228-watering-plants-ii](https://github.com/kasiah00/leetcode24/tree/master/2228-watering-plants-ii) |
 ## Sorting
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/kasiah00/leetcode24/tree/master/0889-buddy-strings) |
 | [1524-string-matching-in-an-array](https://github.com/kasiah00/leetcode24/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kasiah00/leetcode24/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/kasiah00/leetcode24/tree/master/1894-merge-strings-alternately) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/kasiah00/leetcode24/tree/master/1933-number-of-different-integers-in-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/kasiah00/leetcode24/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kasiah00/leetcode24/tree/master/3412-permutation-difference-between-two-strings) |
